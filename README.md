@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **Computer Systems Engineer** and **Full-Sta
 
 - 📚 I hold a degree in **Computer Systems Engineering** from **Palestine Technical University - Kadoorie**.
 - 💻 I’m passionate about developing with **ASP.NET** and **React**.
-- 🌱 I’ve learned **Python** and **Data Science** through the **Palestine Launchpad with Google** Nanodegree program.
+- 🌱 I’ve completed the **Programming for Data Science with Python** Nanodegree program through **Palestine Launchpad with Google**.
 - 🧩 Problem-solving is my forte—tackling complex challenges and delivering effective solutions is what drives me.
 
 ## 🛠️ Technologies & Tools
